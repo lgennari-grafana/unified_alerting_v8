@@ -1,14 +1,6 @@
-# Unified Alerting Enablement Material - Grafana V8
-
-Unified Alerting Enablement files and data are stored here. This is the main branch and contains all files.
-In case an update is released, then it will have its own branch that will be tagged as V8.X.X
-
-Enjoy!
-
-
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 <img align="center" src="resources/slides_images/GrafanaLogo.png" alt="Path Finder Project" style="width:100%;height:100%"/>
-  <br><br><strong>Unified Alerting Enablement</strong>
+  <br><br><strong>Unified Alerting Enablement Material - Grafana V8</strong>
 </h1>
 
 <!--
@@ -36,6 +28,11 @@ Enjoy!
 ## Introduction <!--[![](./docs/img/pin.svg)](#introduction)-->
 
 **Grafana Unified Alerting** This is the first release of Unified Alerting Enablement specifically built for Custoner Support.
+
+This repository contains all files and data used to build the enablement. This is the main branch and contains all files.
+In case an update is released, then it will have its own branch that will be tagged as V8.X.X
+
+Enjoy!
 
 ---
 
